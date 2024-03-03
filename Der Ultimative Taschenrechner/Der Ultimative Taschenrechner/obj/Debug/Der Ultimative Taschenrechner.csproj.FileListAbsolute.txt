@@ -1,0 +1,22 @@
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\bin\Debug\Der Ultimative Taschenrechner.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\Der Ultimative Taschenrechner\Der Ultimative Taschenrechner\obj\Debug\Der Ultimative Taschenrechner.pdb
